@@ -2,6 +2,8 @@
 
 Simple console-based restaurant ordering system (C++). The program reads menu data from text files and provides a basic interactive ordering flow.
 
+Demo link: https://onlinegdb.com/SGhyc1F0r
+
 ![images](images/restaurant-ordering.png)
 
 **Features**
